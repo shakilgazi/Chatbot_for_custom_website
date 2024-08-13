@@ -1,6 +1,12 @@
 # Project Overview
 
 
+
+![BdCalling_demo_chatbot](https://github.com/user-attachments/assets/88cc8b83-5693-4d2a-a472-251ee001c5d4)
+
+
+
+
 This project implements a custom chatbot capable of answering questions based on the content of the website.
 
 Step-by-Step Implementation
@@ -38,10 +44,5 @@ Developed a chatbot using Streamlit to visualize the question-answering system. 
 
 ### Real-Time Interaction: 
 The Streamlit app displays both the generated responses and the sources of information, ensuring transparency and context for each answer.
-
-
-
-
-![BdCalling_demo_chatbot](https://github.com/user-attachments/assets/88cc8b83-5693-4d2a-a472-251ee001c5d4)
 
 
