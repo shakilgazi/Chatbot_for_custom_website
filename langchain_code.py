@@ -10,10 +10,10 @@ from langchain.vectorstores import Chroma
 from langchain.llms import HuggingFaceHub
 
 # Initialize Huggingface API key
-os.environ['HUGGINGFACEHUB_API_TOKEN'] = '............................'
+os.environ['HUGGINGFACEHUB_API_TOKEN'] = '............................' # I removed the Huggingface API key for the sake of security. 
 
 # Initialize Pinecone API key
-pc = pnc.Pinecone(api_key="..........................",)
+pc = pnc.Pinecone(api_key="..........................",) # I removed the Pinecone API key for the sake of security. 
 
 # Here it will check that, is there the index exists and if not then it will create
 index_name = "quickstart"
